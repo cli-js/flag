@@ -1,0 +1,30 @@
+{
+  "name": "@cli/flag",
+  "version": "0.3.0",
+  "description": "flag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo '1'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cli-js/flag.git"
+  },
+  "keywords": [
+    "cli",
+    "command",
+    "flag",
+    "line",
+    "interface"
+  ],
+  "author": "Scott Corgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cli-js/flag/issues"
+  },
+  "homepage": "https://github.com/cli-js/flag#readme",
+  "dependencies": {
+    "as-array": "^2.0.0",
+    "ramda": "^0.18.0"
+  }
+}
